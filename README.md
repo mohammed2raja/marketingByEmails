@@ -1,2 +1,0 @@
-# marketingByEmails
-Created with CodeSandbox
